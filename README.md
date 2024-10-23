@@ -1,2 +1,2 @@
 # Road_Accidents-Data-Analysis
-The task involves analyzing road accident data by cleaning it, defining primary and secondary KPIs, and using pivot tables for data summarization. The insights are visualized through charts and graphs, culminating in a dashboard that offers a clear overview of road accident trends and key metrics.
+Link for the project - https://docs.google.com/spreadsheets/d/1gyy0PV_MegP1FfiGm3o3jWhbaHZ1AGbZ/edit?usp=drive_link&ouid=108441272575486599768&rtpof=true&sd=true
